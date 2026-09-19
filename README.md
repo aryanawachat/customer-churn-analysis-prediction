@@ -164,7 +164,7 @@ An interactive Tableau dashboard was created to provide a visual overview of cus
 
 ### Dashboard Preview
 
-![Customer Churn Tableau Dashboard](Tableau Dashboard.png)
+![Customer Churn Tableau Dashboard](Tableau_Dashboard.png)
 
 ### Dashboard KPIs
 
