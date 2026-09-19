@@ -162,6 +162,10 @@ sql/customer_churn_queries.sql
 
 An interactive Tableau dashboard was created to provide a visual overview of customer churn.
 
+### Dashboard Preview
+
+![Customer Churn Tableau Dashboard](Tableau Dashboard.png)
+
 ### Dashboard KPIs
 
 | KPI                     |  Value |
