@@ -162,6 +162,8 @@ sql/customer_churn_queries.sql
 
 An interactive Tableau dashboard was created to provide a visual overview of customer churn.
 
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/CustomerChurnAnalysisPrediction/CustomerChurnAnalysisPrediction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Dashboard Preview
 
 ![Customer Churn Tableau Dashboard](Tableau_Dashboard.png)
